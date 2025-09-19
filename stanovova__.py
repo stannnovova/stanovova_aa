@@ -18,3 +18,5 @@ try:
     print(f"a = {a}, b = {b}")
 except ValueError:
     print("Ошибка: введите два целых числа!")
+
+print(a * b)
