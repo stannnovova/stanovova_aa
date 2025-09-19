@@ -20,3 +20,5 @@ except ValueError:
     print("Ошибка: введите два целых числа!")
 
 print(a / b)
+
+print('hello world')
