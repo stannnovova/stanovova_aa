@@ -17,6 +17,5 @@ hello from Georgia!!
 hello from abu dhabi!!
 
 hello world
-bye bye world :(
 
 
